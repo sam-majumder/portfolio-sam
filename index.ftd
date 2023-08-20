@@ -19,17 +19,17 @@
 
 -- navbar.header:
 logo: $assets.files.images.logo.svg
-logoURL: /YOUR_REPOSITORY_NAME
+logoURL: /portfolio-sam
 header-item1: Home
 header-item2: About
-header-item3: Blogs
+header-item3: Portfolio
 header-item4: Projects
-header-item1-link: /YOUR_REPOSITORY_NAME
-header-item2-link: /YOUR_REPOSITORY_NAME/about
-header-item3-link: /YOUR_REPOSITORY_NAME/blogs
-header-item4-link: /YOUR_REPOSITORY_NAME/projects
+header-item1-link: /portfolio-sam
+header-item2-link: /portfolio-sam/about
+header-item3-link: /portfolio-sam/blogs
+header-item4-link: /portfolio-sam/projects
 cta-item2: Resume
-cta-item2-link: /YOUR_REPOSITORY_NAME/resume
+cta-item2-link: /portfolio-sam/resume
 
 ;; ----------------------------------------------------------------
 ;; ***** PORTFOLIO Header ends *****
@@ -42,7 +42,7 @@ cta-item2-link: /YOUR_REPOSITORY_NAME/resume
 
 -- toast.stack:
 title: Hello, I'm aspiring fastn developer based in India
-link: https://github.com/YOUR_GITHUB_USERNAME
+link: https://github.com/sam-majumder
 
 ;; -----------------------------------------------------
 ;; ***** PORTFOLIO Toast ends *****
@@ -69,15 +69,15 @@ spacing.fixed.px: 20
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: I'm
-secondTitle: YOUR_NAME,
+secondTitle: Samriddha majumder,
 
 -- lib.hero-ui-base-text-wrapper:
-firstTitle: frontend
-secondTitle: developer
+firstTitle: Frontend
+secondTitle: Developer
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: and
-secondTitle: explorer.
+secondTitle: Java Developer.
 
 -- ftd.text: I design and create functional and beautiful applications with passion and a focus on user experience and high quality.
 role: $lib.home-description-responsive-typography
@@ -91,7 +91,7 @@ spacing.fixed.px: 10
 
 -- button.secondary:
 title: Hire me
-link: mailto:YOUR_EMAIL_ADDRESS
+link: mailto:aritrabasu2002@gmail.com
 
 -- button.primary:
 title: Schedule a Meeting
@@ -116,11 +116,11 @@ link: https://twitter.com/YOUR_TWITTER_USERNAME
 image: $assets.files.images.twitter.png
 
 -- social.social-button-wrapper:
-link: https://github.com/YOUR_GITHUB_USERNAME
+link: https://github.com/Hacker-Aritra
 image: $assets.files.images.github.png
 
 -- social.social-button-wrapper:
-link: https://instagram.com/YOUR_INSTAGRAM_USERNAME
+link: https://instagram.com/__a.r.i.t.r.a.__
 image: $assets.files.images.instagram.png
 
 -- social.social-button-wrapper:
